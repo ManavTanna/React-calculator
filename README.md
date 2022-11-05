@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-Hosted website link: [https://react-calculator-rose.vercel.app/]
+Hosted website link: https://react-calculator-rose.vercel.app/
